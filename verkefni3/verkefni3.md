@@ -24,8 +24,8 @@ B Prototype sérgreinir fallið og gerir sína eigin útgáfu til að spara minn
     this.life = 10;
     this.speed = 10;
 };
-b.
 
+b.
 let space_1 = new createShip(["battlesstar"],10,7); 
 let space_2 = new createShip(["falcon"],10,8);
 let space_3 = new createShip(["dargon_destroy"],10,10);
